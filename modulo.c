@@ -20,7 +20,6 @@ static int __init moduloInit(void){
 	
 	}
 	
-	printk("Setso\n");
  	return 0;
 }
 
