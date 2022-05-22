@@ -1,7 +1,9 @@
 # ProyectoI_SO
 ## Integrantes:
 Norman Betancourtt Mairena
+
 Hector Mendez Fernandez
+
 Rebeca Servellon Orellana
 
 ## Agregar módulo
