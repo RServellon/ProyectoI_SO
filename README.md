@@ -1,8 +1,8 @@
 # ProyectoI_SO
-# Integrantes:
-# Norman Betancourtt Mairena
-# Hector Mendez Fernandez
-# Rebeca Servellon Orellana
+## Integrantes:
+Norman Betancourtt Mairena
+Hector Mendez Fernandez
+Rebeca Servellon Orellana
 
 ## Agregar módulo
 Para agregar el módulo primero debemos ejecutar el Makefile
